@@ -1,4 +1,8 @@
 // add solution here
 var theBeatlesPlay = function(){
-  return ["rhythm guitar", "electric guitar", "bass", "drums"]
+  var instruments = ["John Lennon plays Guitar",
+         "Paul McCartney plays Bass Guitar",
+         "George Harrison plays Lead Guitar",
+         "Ringo Starr plays Drums"]
+  return instruments
 }
