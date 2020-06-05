@@ -13,4 +13,5 @@ var johnLennonFacts = function(facts){
     facts[i] + '!!!'
     i++
   }
+  return facts
 }
