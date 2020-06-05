@@ -1,2 +1,4 @@
 // add solution here
-var theBeatlesPlay = ["rhythm guitar", "electric guitar", "bass", "drums"]
+var theBeatlesPlay = function(){
+  return ["rhythm guitar", "electric guitar", "bass", "drums"]
+}
