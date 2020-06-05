@@ -10,7 +10,7 @@ var theBeatlesPlay = function(musicians, instruments){
 var johnLennonFacts = function(facts){
   var i = 0
   while(i < facts.length){
-    facts[i] + '!!!'
+    facts[i].concat('!!!')
     i++
   }
   return facts
