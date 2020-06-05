@@ -6,8 +6,11 @@ var theBeatlesPlay = function(musicians, instruments){
     }
     return array
 }
-// var instruments = ["John Lennon plays Guitar",
-//        "Paul McCartney plays Bass Guitar",
-//        "George Harrison plays Lead Guitar",
-//        "Ringo Starr plays Drums"]
-// return instruments
+
+var johnLennonFacts = function(facts){
+  var i = 0
+  while(i < facts.length){
+    facts[i] + '!!!'
+    i++
+  }
+}
